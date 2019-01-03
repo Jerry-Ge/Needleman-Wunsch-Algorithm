@@ -1,0 +1,22 @@
+Small test 1
+Total amino acids produced: 0
+(A) Alanine: 0
+(C) Cysteine: 0
+(D) Aspartic acid: 0
+(E) Glutamic acid: 0
+(F) Phenylalanine: 0
+(G) Glycine: 0
+(H) Histidine: 0
+(I) Isoleucine: 0
+(K) Lysine: 0
+(L) Leucine: 0
+(M) Methionine: 0
+(N) Asparagine: 0
+(P) Proline: 0
+(Q) Glutamine: 0
+(R) Arginine: 0
+(S) Serine: 0
+(T) Threonine: 0
+(V) Valine: 0
+(W) Tryptophan: 0
+(Y) Tyrosine: 0

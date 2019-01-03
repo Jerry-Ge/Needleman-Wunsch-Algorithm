@@ -1,10 +1,3 @@
-# ITP 435 PA3 - Fall 2018 #
+# Needleman-Wunsch Algorithm #
 
-### EDIT BELOW ###
-Name: Yuzhou Ge
-
-Email: yuzhouge@usc.edu
-
-Section: [M/W]
-
-Platform: [PC]
+Implemented the Needlman-Wunsch algorithm for global pairwise sequence alignment
